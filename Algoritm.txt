@@ -1,14 +1,14 @@
 Step 1: Start
-Step 2: Declear variable file[]="location of logging"
-Step 3: Declear t[100]=""
-Step 4: Declear structure stat b
+Step 2: Declare variable file[]="location of logging"
+Step 3: Declare t[100]=""
+Step 4: Declare structure stat b
 Step 5: Initialise i=0
 Step 6: Repeat the step infinite times
    6.1: If the file located by file[] does exist
  6.1.1:	Then store date and time in t using strftime() and localtime() functions
  6.1.2: Print"Last modified Date and Time :",t
    6.2: Print"cannot display the Time.....z")
-   6.3: Declear delay=0
+   6.3: Declare delay=0
    6.4: Repeat the step until delay<120000000000
  6.4.1: Calculate 5 minutes
  6.4.2: delay=delay+1
