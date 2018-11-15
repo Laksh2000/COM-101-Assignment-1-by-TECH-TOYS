@@ -1,5 +1,5 @@
 Step 1: START
-Step 2: Declare variable file[]="location of logging"
+Step 2: Declare variable file[]="location of file"
 Step 3: Declare t[100]=""
 Step 4: Declare structure stat b
 Step 5: Initialise i=0
