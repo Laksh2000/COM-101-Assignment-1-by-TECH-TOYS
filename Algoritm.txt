@@ -12,6 +12,5 @@ Step 6: Repeat the step infinite times
  6.2.1: STOP.
    6.3: Declare delay=0
    6.4: Repeat the step until delay<120000000000
- 6.4.1: Calculate 5 minutes
- 6.4.2: delay=delay+1
+ 6.4.1: delay=delay+1
    6.5: i=i+1
